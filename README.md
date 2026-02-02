@@ -9,7 +9,7 @@ The plugin also includes **custom items** and **special TXT files** required for
 
 ---
 ## NOTE
-this plugin is entirerly in polish and needs english translation
+this plugin is entirely in polish and needs english translation
 
 ---
 

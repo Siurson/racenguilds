@@ -8,6 +8,10 @@ Each race has unique **bonuses and drawbacks**, encouraging different playstyles
 The plugin also includes **custom items** and **special TXT files** required for full functionality.
 
 ---
+## NOTE
+this plugin is entirerly in polish and needs english translation
+
+---
 
 ## Core Concept
 
